@@ -2,7 +2,7 @@ This is an **example** API to demonstrate features of the OpenAPI specification.
 
 # Introduction
 
-This API definition is intended to to be a good starting point for
+This API definition is intended to be a good starting point for
 describing your API in
 
 [OpenAPI/Swagger
@@ -21,10 +21,11 @@ extensions](https://github.com/Redocly/Redoc/blob/master/docs/redoc-vendor-exten
 
 # How we got started
 
-We played and fudged. That didn't work. 
+We played and fudged. That didn't work.
+
 Then we read the manual and landed up with this.
-The moral of the story:
-RTFM
+
+The moral of the story: RTFM
 
 The goal of The OpenAPI Specification is to define a standard,
 language-agnostic interface to REST APIs which
